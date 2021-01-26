@@ -47,10 +47,11 @@ Thomas High School	    NaN	  83.087886	     83.498795	 83.497041
 
 Scores by school spending
 
-
 Scores by school size
 
 Scores by school type
+
+Thomas High School	Charter	1635	$1,043,130.00	$638.00	 83.35	   83.90	 66.91	 69.66	  65.08	   $630-644
 
 Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
