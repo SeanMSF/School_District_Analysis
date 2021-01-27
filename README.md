@@ -3,16 +3,8 @@ The purpose of this analysis was to assist a school board official to analyze re
 
 # Results: 
 
-How is the district summary affected? 
-Pre-replacement of values was as follows
-# Total Schools	Total Students	Total Budget	Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Overall Passing
-# 0	15	           39170	         24649428	        78.985371	        81.87784	           74.980853	    85.805463	           65.172326
+We can see that the THS sample of Freshman was removed from the sample because our total counts of reading and math scores is reduced, values also change significantly as we will see!
 
-Post-replacement of values
-# Total Schools	Total Students	Total Budget	Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Overall Passing
-# 0	  15	          39,170	      $24,649,428.00	     78.93	             81.9	                 74.8	           85.7	              64.9
-
-We can see that the THS sample of Freshman was removed from the sample because our total counts of reading and math scores is reduced:
 Student ID       39170
 student_name     39170
 gender           39170
@@ -57,9 +49,9 @@ Average Reading Score	83.90
 Spending Ranges (Per Student)  $630-644
 
 Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-- Passing math scores drop significantly, from 93.2 to 66.91%
-- Passing reading drop from to 97.30 to 69.66
-- Overall passing decrease from 90.94 to 65.08
+- % Passing math scores drop significantly, from 93.2 to 66.91%
+- % Passing reading drop from to 97.30 to 69.66
+- % Overall passing decrease from 90.94 to 65.08
 - Average reading and math scores are essentially unchanged. District wide, overall passing and average reading and math scores are little changed.  
 - Budget, school size, school type, are all unchanged, as we would expect. 
 
